@@ -19,14 +19,14 @@
     <li>
         <a href='#all-modules'>Модулі проєкту</a>.
     </li>
-    "Всі модулі
-        1.customtkinter
-        2.json
-        3.colorama
-        4.os
-        5.requests
-        6.pillow
-        7.datetime"
+    "Всі модулі"
+    "1.customtkinter"
+    "2.json"
+    "3.colorama"
+    "4.os"
+    "5.requests"
+    "6.pillow"
+    "7.datetime"
     <li>
         <a href='#download-project'>Розгортання проєкту</a>.
     </li>
@@ -36,13 +36,13 @@
             <li>
                 <a href='#windows'>Для Windows</a>.
             </li>
-            "python -m venv venv
-                source venv/Scripts/activate"
+            "python -m venv venv"
+            "source venv/Scripts/activate"
             <li>
                 <a href='#mac-os'>Для Mac OS</a>.
             </li>
-            "python3 -m venv venv
-                source venv/bin/activate"
+            "python3 -m venv venv"
+            "source venv/bin/activate"
         </ul>
     </li>
     <li>
@@ -54,13 +54,13 @@
             <li>
                 <a href='#Windows'>Windows</a>.
             </li>
-            "python -m venv venv
-                source venv/Scripts/activate"
+            "python -m venv venv"
+            "source venv/Scripts/activate"
             <li>
                 <a href='#MacOS'></a>.
             </li>
-            "python3 -m venv venv
-                source venv/bin/activate"
+            "python3 -m venv venv"
+            "source venv/bin/activate"
             <li>
                 <a href='#pip-install'>Завантаження окремих модулів</a>.
             </li>
@@ -86,5 +86,4 @@
 
 ---
 <h3 id='download-project'>Розгортання проєкту</h3>
-
 
