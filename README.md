@@ -36,13 +36,13 @@
             <li>
                 <a href='#windows'>Для Windows</a>.
             </li>
-            "python -m venv venv"
-            "source venv/Scripts/activate"
+            python -m venv venv
+            source venv/Scripts/activate
             <li>
                 <a href='#mac-os'>Для Mac OS</a>.
             </li>
-            "python3 -m venv venv"
-            "source venv/bin/activate"
+            python3 -m venv venv
+            source venv/bin/activate
         </ul>
     </li>
     <li>
@@ -54,13 +54,13 @@
             <li>
                 <a href='#Windows'>Windows</a>.
             </li>
-            "python -m venv venv"
-            "source venv/Scripts/activate"
+            python -m venv venv
+            source venv/Scripts/activate
             <li>
                 <a href='#MacOS'></a>.
             </li>
-            "python3 -m venv venv"
-            "source venv/bin/activate"
+            python3 -m venv venv
+            source venv/bin/activate
             <li>
                 <a href='#pip-install'>Завантаження окремих модулів</a>.
             </li>
