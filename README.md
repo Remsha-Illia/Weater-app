@@ -84,7 +84,7 @@
 git clone https://github.com/your-username/Oleg-Weather-app.git
 
 cd Oleg-Weather-app
-<h3 id='create-venv'>Створеня віртуального о</h3>
+<h3 id='create-venv'>Створеня віртуального оточення</h3>
 <h3 id='windows'>Для Windows</h3>
 python -m venv venv
 
@@ -93,3 +93,12 @@ venv\Scripts\activate
 python3 -m venv venv
 
 source venv/bin/activate
+<h3 id='download-modules'>Завантаження модулів</h3>
+<h3 id='requriments'>1 Варіант: Завантаженя із requirements.txt</h3>
+pip install -r requirements.txt
+<h3 id='download-modules'>2 Варіант:Завантаженя окремі модулі</h3>
+pip install customtkinter requests
+<h3 id='start-project'>Старт проєкту</h3>
+Переходим в main.py и нажимаем на кнопку
+<h3 id='result'>Висновок</h3>
+
