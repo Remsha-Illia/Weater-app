@@ -19,14 +19,6 @@
     <li>
         <a href='#all-modules'>Модулі проєкту</a>.
     </li>
-    "Всі модулі"
-    "1.customtkinter"
-    "2.json"
-    "3.colorama"
-    "4.os"
-    "5.requests"
-    "6.pillow"
-    "7.datetime"
     <li>
         <a href='#download-project'>Розгортання проєкту</a>.
     </li>
@@ -36,13 +28,9 @@
             <li>
                 <a href='#windows'>Для Windows</a>.
             </li>
-            python -m venv venv
-            source venv/Scripts/activate
             <li>
                 <a href='#mac-os'>Для Mac OS</a>.
             </li>
-            python3 -m venv venv
-            source venv/bin/activate
         </ul>
     </li>
     <li>
@@ -54,13 +42,9 @@
             <li>
                 <a href='#Windows'>Windows</a>.
             </li>
-            python -m venv venv
-            source venv/Scripts/activate
             <li>
                 <a href='#MacOS'></a>.
             </li>
-            python3 -m venv venv
-            source venv/bin/activate
             <li>
                 <a href='#pip-install'>Завантаження окремих модулів</a>.
             </li>
@@ -81,9 +65,21 @@
 
 <hr>
 <h3 id='all-modules'>Модулі проєкту</h3>
-
-
-
----
+"Всі модулі"
+    "1.customtkinter"
+    "2.json"
+    "3.colorama"
+    "4.os"
+    "5.requests"
+    "6.pillow"
+    "7.datetime"
 <h3 id='download-project'>Розгортання проєкту</h3>
-
+git clone https://github.com/your-username/Oleg-Weather-app.git
+cd Oleg-Weather-app
+<h3 id='create-venv'>Створеня віртуального о</h3>
+<h3 id='windows'>Для Windows</h3>
+python -m venv venv
+venv\Scripts\activate
+<h3 id='mac-os'>Для Mac OS</h3>
+python3 -m venv venv
+source venv/bin/activate
